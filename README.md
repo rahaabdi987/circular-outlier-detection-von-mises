@@ -39,8 +39,7 @@ library(CircStats)
 ## Important Note
 
 The original program was available as a scanned thesis appendix.  
-This version has been cleaned and formatted for GitHub.  
-Before using it for publication, reproduction, or formal analysis, the code should be checked against the original thesis and tested carefully.
+This version has been cleaned and formatted for GitHub. 
 
 ## Suggested Citation
 
