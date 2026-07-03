@@ -23,8 +23,10 @@ This code is based on the MSc research work of **Khadijeh Abdi**.
 
 ## Files
 
-- `circular_outlier_detection_von_mises.R`  
+### `circular_outlier_detection_von_mises.R` 
+
   Main R script containing:
+  
   - COVRATIO calculation
   - EM algorithm for a two-component Von Mises mixture model
   - Example usage sections
@@ -38,12 +40,14 @@ library(CircStats)
 
 ## Important Note
 
-The original program was available as a scanned thesis appendix.  
-This version has been cleaned and formatted for GitHub. 
+The original program was available as a scanned thesis appendix. This version has been cleaned and formatted for GitHub. 
 
 ## Suggested Citation
 
 Abdi, K., Golalizadeh, M., & Baghfalaki, T.  
-*Circular Outliers Detection Using a Mixture of Von Mises Distributions*.  
-Journal of Advanced Mathematical Modeling.                                                                                                                          
+
+*Circular Outliers Detection Using a Mixture of Von Mises Distributions*. 
+
+Journal of Advanced Mathematical Modeling.     
+
 DOI: https://doi.org/10.22055/JAMM.2018.20998.1394
