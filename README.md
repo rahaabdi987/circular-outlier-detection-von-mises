@@ -45,5 +45,5 @@ This version has been cleaned and formatted for GitHub.
 
 Abdi, K., Golalizadeh, M., & Baghfalaki, T.  
 *Circular Outliers Detection Using a Mixture of Von Mises Distributions*.  
-Journal of Applied Mathematics and Modeling.  
+Journal of Advanced Mathematical Modeling. 
 DOI: 10.22055/JAMM.2018.20998.1394
