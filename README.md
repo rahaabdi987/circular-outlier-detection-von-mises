@@ -8,7 +8,7 @@ This code is based on the MSc research work of **Khadijeh Abdi**.
 
 **Thesis:** Outlier Detection in Circular Regression Models using Mixture of Von Mises Distributions  
 **Publication:** Circular Outliers Detection Using a Mixture of Von Mises Distributions  
-**Journal:** Journal of Applied Mathematics and Modeling (JAMM)  
+**Journal:** Journal of Advanced Mathematical Modeling (JAMM)  
 **DOI:** 10.22055/JAMM.2018.20998.1394
 
 ## Main Methods
