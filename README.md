@@ -44,7 +44,7 @@ The original program was available as a scanned thesis appendix. This version ha
 
 ## Suggested Citation
 
-Abdi, K., Golalizadeh, M., & Baghfalaki, T.  
+Golalizadeh, M., **Abdi, K.**, & Baghfalaki, T.  
 
 *Circular Outliers Detection Using a Mixture of Von Mises Distributions*. 
 
